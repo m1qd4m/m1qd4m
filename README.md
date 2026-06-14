@@ -182,10 +182,9 @@ Multi-role catering management system (admin / staff / customer) built with **PH
 
 </div>
 
+
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=6C63FF&height=80&section=footer&fontSize=0" />
-
-*"It only takes is 1 BIG WIN to erase all the loses."*
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&text=It%20only%20takes%201%20BIG%20WIN&fontSize=28&fontColor=fff&animation=twinkling&fontAlignY=45&desc=to%20erase%20all%20the%20losses.&descAlignY=72&descSize=14&descColor=a78bfa" />
 
 </div>
