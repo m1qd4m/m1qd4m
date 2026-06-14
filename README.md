@@ -27,9 +27,7 @@
 ## `> PLAYER.STATS`
 
 ```
- ══════════════════════════════════════════════════════════
-   MUNEEB SHAH                          
- ══════════════════════════════════════════════════════════
+
   🎓  ORIGIN     →  FAST NUCES (CS)                      
   ⚔️  ROLE       →  DevOps | AI/ML | GenAI | FullStack   
   📍  SERVER     →  Pakistan                              
@@ -45,7 +43,7 @@
 
 
 
-### 🗡️ LANGUAGES
+### 
 
 <img src="https://skillicons.dev/icons?i=ts,java,cpp,dart,python&theme=dark&perline=5"/>
 
@@ -74,28 +72,9 @@
 
 </div>
 
----
 
-<div align="center">
 
-## `> PINNED_QUESTS.LOG`
 
-```
-╔══════════════════════════════════════════════════════════╗
-║  📌  SELECT YOUR QUEST BELOW                            ║
-╠══════════════════════════════════════════════════════════╣
-║  🗡️  Projects are pinned on my GitHub profile page      ║
-║  👇  Explore them via the pinned repos section          ║
-╚══════════════════════════════════════════════════════════╝
-```
-
-> **🎮 My projects are pinned on my profile — check them out below! 👇**
-
-[![GitHub](https://img.shields.io/badge/🗡️_VIEW_ALL_QUESTS-GitHub_Pinned-00FF41?style=for-the-badge&labelColor=0d0d0d)](https://github.com/m1qd4m)
-
-</div>
-
----
 
 <div align="center">
 
