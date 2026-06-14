@@ -116,6 +116,7 @@ A free, offline-first mobile app built with React Native (Expo) that helps Pakis
 
 </td>
 <td width="50%" valign="top">
+  
 ### 🍽️ [EliteCater — Catering Management](https://github.com/m1qd4m/catering_system_-db-project-)
 Multi-role catering management system (admin / staff / customer) built with **PHP, MySQL**.
 
