@@ -1,24 +1,30 @@
 <div align="center">
 
-<!-- Animated typing header -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=28&pause=1000&color=6C63FF&center=true&vCenter=true&width=600&lines=Hey%2C+I'm+Muneeb+Shah+%F0%9F%91%8B;CS+Student+%40+FAST-NUCES;Building+cool+things+with+code" alt="Typing SVG" />
+<!-- Glowing animated banner background -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,100:302b63&height=220&section=header&text=Muneeb%20Shah&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=35" />
+
+<!-- Typing animation (more premium style) -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=900&color=7F5AF0&center=true&vCenter=true&width=650&lines=CS+Student+at+FAST-NUCES;Full-Stack+Developer;AI+%7C+CV+%7C+DevOps+Enthusiast;Building+scalable+real-world+systems" />
 
 <br/>
 
-<!-- Subtle wave divider -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=6C63FF&height=80&section=header&fontSize=0" />
+<!-- Floating badges animation style -->
+<p>
+  <img src="https://img.shields.io/badge/Focus-AI%20%26%20Computer%20Vision-7F5AF0?style=for-the-badge&logo=target&logoColor=white" />
+  <img src="https://img.shields.io/badge/Level-Intermediate%20Engineer-2CB67D?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Status-Open%20to%20Internships-F97316?style=for-the-badge" />
+</p>
+
+<!-- Subtle animated wave divider -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:302b63,100:0f0c29&height=3&section=header"/>
 
 </div>
 
----
 
 <div align="center">
 
 🎓 &nbsp;**BS Computer Science** · FAST-NUCES  &nbsp;|&nbsp; Semester 6
 &nbsp;&nbsp;•&nbsp;&nbsp;
-
-&nbsp;&nbsp;•&nbsp;&nbsp;
-💼 &nbsp;[LinkedIn](https://linkedin.com/in/muneebshah) &nbsp;|&nbsp; [GitHub](https://github.com/m1qd4m)
 
 </div>
 
@@ -26,9 +32,7 @@
 
 ## 🚀 About Me
 
-I'm a computer science student at FAST-NUCES building at the intersection of **computer vision**, **full-stack development**, and **AI**. I love shipping projects that solve real problems — from hospital queue management with live object detection to AI-powered study tools.
-
-Currently targeting software engineering internships and working on research-grade projects in systems programming and agentic AI.
+I'm a computer science student at FAST-NUCES building at the intersection of **computer vision**, **full-stack development**, **DevOps** & **AI**. 
 
 ```
 📌 Open to internship opportunities in SWE / CV / AI roles
@@ -87,7 +91,7 @@ Currently targeting software engineering internships and working on research-gra
 <tr>
 <td width="50%" valign="top">
 
-### 🏥 Smart Hospital Queue System
+### 🏥 [Smart Hospital Queue System](https://github.com/m1qd4m/hospital_queue_system-v2)
 Real-time queue management using **YOLOv8** object detection with live patient tracking, FastAPI backend, SQLite, and a React Native mobile app.
 
 `YOLOv8` `FastAPI` `React Native` `Streamlit` `SQLite`
@@ -95,7 +99,7 @@ Real-time queue management using **YOLOv8** object detection with live patient t
 </td>
 <td width="50%" valign="top">
 
-### 🎓 StudyBuddy AI
+### 🎓 [StudyBuddy AI](https://github.com/m1qd4m/studybuddy-ai)
 AI-powered study companion built with **Next.js**, Node.js, MongoDB, and the **Gemini API**. Deployed on Railway + Vercel.
 
 `Next.js` `Node.js` `MongoDB` `Gemini API` `Railway`
@@ -105,21 +109,25 @@ AI-powered study companion built with **Next.js**, Node.js, MongoDB, and the **G
 <tr>
 <td width="50%" valign="top">
 
-### 💸 Tax-Assistant
+### 💸 [Tax-Assistant](https://github.com/m1qd4m/Tax-Assistant-Pro)
 A free, offline-first mobile app built with React Native (Expo) that helps Pakistani citizens calculate their income tax estimate based on FBR (Federal Board of Revenue) rules — in under 2 minutes.
 
 `TypeScript` `JavaScript` `Shell` `React-Native` `Expo-Go`
 
 </td>
 <td width="50%" valign="top">
+### 🍽️ [EliteCater — Catering Management](https://github.com/m1qd4m/catering_system_-db-project-)
+Multi-role catering management system (admin / staff / customer) built with **PHP, MySQL**.
 
+`PHP` `MySQL` `Multi-role Auth`
 
 </td>
 </tr>
+<!--
 <tr>
 <td width="50%" valign="top">
 
-
+<!--
 <td width="50%" valign="top">
 
 ### 🍽️ EliteCater — Catering Management
@@ -129,6 +137,7 @@ Multi-role catering management system (admin / staff / customer) built with **PH
 
 </td>
 </tr>
+-->
 </table>
 
 ---
@@ -139,7 +148,7 @@ Multi-role catering management system (admin / staff / customer) built with **PH
 🔭  Computer Vision   →  YOLOv8, OpenCV, real-time detection systems
 ⚙️  DevOps            →  Docker, CI/CD, cloud deployment pipelines
 🤖  Generative AI     →  LangChain, LangGraph, agentic AI workflows
-🦀  Systems           →  VeritasDB (FYP) — kernel-bypass DB engine in Rust
+
 ```
 
 ---
@@ -166,7 +175,7 @@ Multi-role catering management system (admin / staff / customer) built with **PH
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/muneebshah)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/syed-muneeb-shah-ab3271265/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/m1qd4m)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:24p0685@nu.edu.pk)
 
@@ -176,6 +185,6 @@ Multi-role catering management system (admin / staff / customer) built with **PH
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=6C63FF&height=80&section=footer&fontSize=0" />
 
-*"Build things. Break things. Learn. Repeat."*
+*"It only takes is 1 BIG WIN to erase all the loses."*
 
 </div>
